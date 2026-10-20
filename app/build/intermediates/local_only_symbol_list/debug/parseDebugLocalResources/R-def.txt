@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ijo
+color ijotua
+color white
+drawable candy
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+font adlam_display
+id main
+id pfp
+id text1
+id text2
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Praktikum1
+style Theme.Praktikum1
+xml backup_rules
+xml data_extraction_rules
